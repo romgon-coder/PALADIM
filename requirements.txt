@@ -1,0 +1,27 @@
+# PALADIM Dependencies
+# Pre Adaptive Learning Architecture of Dual-Process Hebbian-MoE Schema
+
+# Core
+torch>=2.0.0
+transformers>=4.30.0
+
+# LoRA/Plastic Memory
+peft>=0.5.0
+
+# Distributed training
+accelerate>=0.20.0
+
+# Evaluation
+scikit-learn>=1.2.0
+
+# Utilities
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# Experiment tracking (optional)
+wandb>=0.15.0
+
+# Additional utilities
+einops>=0.6.0
+scipy>=1.10.0
+
